@@ -2,4 +2,4 @@
 Hello World repository for Git practice
 This is an example repository 
 
-This repository is built step by step in the tutorial.
+This repository is built step by step.
